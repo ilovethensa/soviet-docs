@@ -3,6 +3,7 @@ weight: 1
 bookFlatSection: true
 title: "CCCP"
 ---
+# CCCP
 CCCP is the official Soviet Linux package manager, capable of installing .ecmp files.
 
 We'll be utilizing the [CCCP package manager](https://github.com/Soviet-Linux/CCCP) (CCCP Crafter of Controlled Packages). This package manager can use .ecmp files to build source packages or a tar.gz archive with precompiled binaries.

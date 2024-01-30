@@ -4,12 +4,6 @@ bookFlatSection: true
 title: "Making Packages"
 ---
 # Making Packages
-
-
-
-
-# Writing a package
-
 Soviet Linux uses CCCP. A `.ecmp` file is a recipe that contains all metdata relating to a package, and the
 instructions to build the package.
 
